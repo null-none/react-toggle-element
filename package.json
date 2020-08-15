@@ -19,6 +19,7 @@
     "react-component",
     "hide",
     "show",
+    "react-toggle-element",
     "toggle",
     "component",
     "functional-component"
